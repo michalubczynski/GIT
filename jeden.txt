@@ -1,2 +1,4 @@
 Dodany plik, pierwsza zmiana
-Druga zmiana
+To ma usunac hard
+To ma usunac soft
+SIEMANO
