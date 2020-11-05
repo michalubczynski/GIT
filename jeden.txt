@@ -1,4 +1,5 @@
 Dodany plik, pierwsza zmiana
 To ma usunac hard
 To ma usunac soft
-SIEMANO
+SIEMANO 	
+Sledzenie
