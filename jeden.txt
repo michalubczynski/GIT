@@ -3,5 +3,9 @@ To ma usunac hard
 To ma usunac soft
 SIEMANO 	
 Sledzenie
+<<<<<<< HEAD
 druga galaz
 trzeciagalaz
+=======
+druga galaz
+>>>>>>> NowaGalaz
